@@ -11,8 +11,9 @@
   vertical-align: bottom;
   }
 
-/* width: 100%;
-   min-width: 1200px; */
+img {
+  vertical-align: bottom;
+  }
    
 body {
   font-family: Verdana;
