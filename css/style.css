@@ -13,7 +13,8 @@
 
 img {
   vertical-align: bottom;
-  }
+  border: 1px solid black;
+ }
    
 body {
   font-family: Verdana;
