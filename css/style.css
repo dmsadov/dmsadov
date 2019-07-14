@@ -11,6 +11,11 @@
   vertical-align: bottom;
   }
 
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+
 img {
   border: 1px solid black;
   }
