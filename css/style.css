@@ -8,13 +8,12 @@
   border: 0;
   font-size: 100%;
   font: inherit;
-  vertical-align: bottom;
   }
 
 img {
   vertical-align: bottom;
   border: 1px solid black;
- }
+  }
    
 body {
   font-family: Verdana;
@@ -25,5 +24,5 @@ body {
   }
   
 header {
- border: 1px solid black;
-}
+  border: 1px solid black;
+  }
