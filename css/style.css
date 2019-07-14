@@ -15,15 +15,13 @@
    min-width: 1200px; */
    
 body {
-  background-color: black;
-  color: white;
   font-family: Verdana;
   width: 1200px; 
-  margin:0 auto; 
+  margin: 1%; 
   text-align:left;
-  border: 0px solid white;
+  border: 0px solid black;
   }
   
 header {
- border: 1px solid white;
+ border: 1px solid black;
 }
