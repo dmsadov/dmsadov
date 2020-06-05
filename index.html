@@ -14,12 +14,27 @@
         padding: 0;
         background-color: black;
       }
+      #content {
+        width: 1200px; /* Ширина слоя в пикселах */
+        height: 250px; /* Высота слоя в пикселах */
+        position: fixed;
+        margin: auto;
+        left: 0;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        padding: 5px;
+        border: 1px solid blue;
+        background: #fc0;
+        background: #fc0; /* Цвет фона */
+        overflow: auto; /* Добавление полосы прокрутки */ 
+      }
+
 
     </style>
   
   </head>
   <body>
-    <h1>Привет, мир!</h1>
-    <p>Это веб-страница.</p>
+    <div iid="content"><h1>Hallo, World!</h1><p>Это веб-страница.</p></div>
  </body>
 </html>
