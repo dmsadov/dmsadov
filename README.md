@@ -1,2 +1,0 @@
-# dmsadov
-Personal blog
